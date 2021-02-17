@@ -1,0 +1,21 @@
+{
+  "name": "dezip",
+  "version": "1.0.0",
+  "description": "Retrieve USPS 5-digit zip code. You'll need an application key from the USPS.",
+  "main": "zip.js",
+  "scripts": {
+    "test": "printf \"Sorry, no test available right now\\n\""
+  },
+  "keywords": [
+    "zip",
+    "zipcode",
+    "postal code",
+    "zip code",
+    "usps"
+  ],
+  "author": "/escott",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "xml-js": "^1.6.11"
+  }
+}
